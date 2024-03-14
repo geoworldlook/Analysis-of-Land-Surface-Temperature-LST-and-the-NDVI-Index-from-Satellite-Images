@@ -30,7 +30,7 @@ To run the project, you need:
 The script generates raster files of the Land Surface Temperature (LST) and the NDVI index, which can be used for further environmental and agricultural analysis.
 
 ## License
-Specify the project's license, such as MIT, if you wish to allow broad usage of your code.
+MIT
 
 ## Author
 Dawid Sajewski
